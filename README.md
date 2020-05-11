@@ -1,5 +1,5 @@
 # Udagram
-<img src="https://api.travis-ci.org/andrewwormald/udagram.svg?branch=master&status=started"/>
+<img src="https://api.travis-ci.org/andrewwormald/udagram.svg?branch=master"/>
 
 ### Screenshots:
 <img style="width:100%; display: inline;" src="./screenshots/travis_build_and_deploy.png"/>
